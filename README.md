@@ -8,6 +8,6 @@ The data was collected from World Health Organization (WHO) and the United Natio
 variables have been divided into categories like immunization related factors, mortality factors, economical factors, and social factors.</br>
 
 <h2>Project Description:</h2> </br>
-It is an end-to-end project, which means that it has every steps of building an ML model. This project includes steps like downloading the data, exploring the data, processing the data for ML algorithms, selecting 
+It is an end-to-end project. This project includes steps like downloading the data, exploring the data, processing the data for ML algorithms, selecting 
 and training different models with cross-validation, fine-tuning the models, and evaluating the final model on the test set. It mostly uses Scikit-Learn. This project considers and compares three models:
 Linear Regression, Decision Tree Regressor, and Random Forest Regressor. The performance measure chosen for this prject is Root Mean Square Error (RMSE).
