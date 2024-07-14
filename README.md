@@ -1,4 +1,4 @@
-<h1> Predicting Life Expectancy with Machine Learning Model </h1>
+<h1> Predicting Life Expectancy with Machine Learning</h1>
 
 It is an end-to-end Machine Learning project. I have used the [Life Expectancy](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/data) dataset from kaggle.</br>
 
